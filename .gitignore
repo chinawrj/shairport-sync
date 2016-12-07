@@ -26,3 +26,4 @@ scripts/shairport-sync
 # Some eclipse project files
 .cproject
 .project
+tags
